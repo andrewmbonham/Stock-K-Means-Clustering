@@ -1,5 +1,10 @@
 # Stock K-Means Clustering
 
+(Note: GitHub does not display interactive scatter plots. 
+Execute the code to visualize all the data, which includes
+scatter plots that display the company ticker when the 
+cursor is over the data point.)
+
 ## Task
 The task here was to cluster S&P 500 stocks based on returns, 
 volatility, and fundamental data such as PE and price-to-book ratios. 
