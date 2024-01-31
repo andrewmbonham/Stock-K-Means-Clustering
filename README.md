@@ -23,6 +23,7 @@ The following Python 3 packages are required:
 - scipy
 - sklearn
 - yellowbrick
+- yfinance
 
 To install the packages, run `pip install <package>`
 
